@@ -19,5 +19,5 @@ class Derived:public Base{
 
 int main(){
     Derived d;
-    d.display(); //This will call it's own function 
+    d.display(); //This will call its own function 
 }
